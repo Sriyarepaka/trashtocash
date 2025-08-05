@@ -1,0 +1,24 @@
+# FastAPI and ASGI server
+fastapi==0.95.0
+uvicorn==0.22.0
+
+# Database
+sqlalchemy==2.0.9
+psycopg2-binary==2.9.7
+alembic==1.10.3
+
+# Authentication
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart==0.0.6
+bcrypt==4.0.1
+
+# Utilities
+pydantic==1.10.7
+python-dotenv==1.0.0
+email-validator==2.0.0.post2
+
+# Development tools
+black==23.3.0
+flake8==6.0.0
+pytest==7.3.1
